@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 45%;
+        font-family: "Segoe UI",Arial,sans-serif;
+        font-size: 36px;
+        font-weight: bolder;
+        letter-spacing: 4px;
+        line-height: 1.5;
+        color: #fff;
+      /*  transform: translate(-50%, -50%);*/
+}
+.centeredd{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-size: 36px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    line-height: 1.5;
+    color: #fff;
+}
+.project-head{
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+.card-img{
+    border: none !important;
+}
+.house-title{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #fff;
+    width: 8rem;
+    height: 2rem;
+    text-align: center;
+}
+.about-exp{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.person-name{
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+.bar-exp{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
